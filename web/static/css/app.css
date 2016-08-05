@@ -1,0 +1,9 @@
+/* This file is for your main application css. */
+
+body {
+    background-color: #000000
+}
+
+#phaser {
+    margin-top: 10%;
+}
